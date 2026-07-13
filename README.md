@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Ishaan 👋
 
-<!--
-**ishaanbuilds/ishaanbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student and developer passionate about building AI systems, developer tools, and open-source software.
 
-Here are some ideas to get you started:
+## Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 AI Systems
+- 🛠️ Developer Tools
+- 🌍 Open Source Projects
+
+## Learning
+
+- Artificial Intelligence
+- System Design
+- Software Engineering
+- AI Infrastructure
+
+## Connect
+
+More links coming soon.
